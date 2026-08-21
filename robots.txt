@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kpuviyarasua-crypto.github.io/puvi-law-office/sitemap.xml
